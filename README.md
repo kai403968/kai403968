@@ -24,4 +24,8 @@
     </a>
   </p>
 
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=kai403968&label=Profile+views&color=1F6FEB&style=flat&base=0&abbreviated=true" alt="Profile views" height="28" />
+  </p>
+
 </div>
